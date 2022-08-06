@@ -1,5 +1,7 @@
+[![MasterHead](https://06edkm734f-flywheel.netdna-ssl.com/wp-content/uploads/2019/01/Blockchain-Webpage-Banner.jpg)]
 <h1 align="center">Hi 👋, I'm Aviral</h1>
 <h3 align="center">A passionate web3 and full-stack developer from India!</h3>
+<img align="right" alt="Coding" width="400" src="https://www.animationlibrary.com/Animation11/Jobs_and_People/Computer_Programmers/cowboy_on_computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviral727&label=Profile%20views&color=0e75b6&style=flat" alt="aviral727" /> </p>
 
