@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aviral
 #### I am a passionate web3 and full-stack developer from India!
-![I am a passionate web3 and full-stack developer from India!](https://camo.githubusercontent.com/13079d0a82ee1e2055b9e2fd3c6459f4fb676817eab3b5e8305a4db2ef364cd5/68747470733a2f2f303665646b6d373334662d666c79776865656c2e6e6574646e612d73736c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30312f426c6f636b636861696e2d576562706167652d42616e6e65722e6a7067)
+
 
 I am a passionate student always ready to work on new technologies and real life projects.
 
