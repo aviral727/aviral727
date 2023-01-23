@@ -4,10 +4,10 @@
 
 I am a passionate student always ready to work on new technologies and real life projects.
 
-Skills: Solidity / NEXTJS / JS / HTML / CSS / Python / Hardhat
+Skills: Solidity / NEXTJS / JS / HTML / CSS / Python / Hardhat / Java
 
 - 🔭 I’m currently working on Hyperledger Cactus 
-- 🌱 I’m currently learning NodeJS, hardhat and DSA 
+- 🌱 I’m currently learning NodeJS, hardhat , DSA , Object Oriented Programming Concepts 
 - 👯 I’m looking to collaborate on WEB3 projects 
 - 🤔 I’m looking for help with My healthcare data management project 
 - 💬 Ask me about Solidity, Brownie, Blockchain 
